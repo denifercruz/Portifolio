@@ -19,7 +19,7 @@ Esse porfitólio foi realizado com o intuito de desenvolver habilidaes a cerca d
 <br>
 
 <p align="center">
-  <img alt="projeto Portifolio" src=".github/preview/Cover.jpg" width="100%">
+  <img alt="projeto Portifolio" src=".github/previw/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](denifercruz.github.io/Portifolio/)
+- [Visite o projeto online](denifercruz.github.io/Portifolio)
 
 ## 🔖 Layout
 
